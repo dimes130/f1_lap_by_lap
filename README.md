@@ -130,7 +130,7 @@ This allows the model to treat short and long laps correctly.
 ---
 
 ## Next Steps
-
+- Fine Tune for other tracks
 - Add weather context (rain %, temperature, wind)
 - Add pit stop flags and stint age
 - Improve multi-year generalization with richer driver embeddings
