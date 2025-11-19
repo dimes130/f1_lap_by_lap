@@ -1,5 +1,5 @@
 # F1 Lap-Time Prediction Model
-
+![](verstappen.jpg)
 This project trains a deep learning model to **predict Formula 1 lap times** using
 telemetry sequences and contextual information such as tyre compound, driver,
 season, and lap number. The model uses a combination of **LSTM sequence modeling**
